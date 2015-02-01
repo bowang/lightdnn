@@ -1,8 +1,6 @@
 #LightDNN
 LightDNN is a distributed deep learning framework for large-scale neural network training and testing.
 
-<!-- START doctoc -->
-<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 **Table of Contents** 
 
 - [1. Design Principles](#1-design-principles)
@@ -21,7 +19,6 @@ LightDNN is a distributed deep learning framework for large-scale neural network
   - [4.3 Fault tolerance](#43-fault-tolerance)
 - [5. Implementation Plan](#5-implementation-plan)
 - [References](#references)
-<!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
 ### 1. Design Principles
  - **Distributed**: LightDNN is designed with a distributed architecture in mind at the very first line of code. Both data parallelism and model parallelism are exploited on heterogeneous clusters.
