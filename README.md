@@ -154,21 +154,21 @@ The implementation can be decomposed into the following steps.
  5. Make it fault tolerant.
 
 ### References
-[1] Alex Krizhevsky, One weird trick for parallelizing convolutional neural networks, arXiv:1404.5997, 2014
-[2] http://en.wikipedia.org/wiki/Graph_partition
-[3] Hailong Yang, et. al. MapReduce Workload Modeling with Statistical Approach, J Grid Computing 2012
-[4] Yanpei Chen, et. al. A Methodology for Understanding MapReducePerformance Under Diverse Workloads, UCB Tech Report, 2010
-[5] I. Stoica, et. al. Chord: A scalable peer-to-peer lookup service for internet applications. ACM SIGCOMM, 2001
-[6] Lamport, Leslie (2001). Paxos Made Simple ACM SIGACT News (Distributed Computing Column) 32, 4
-[7] Robbert van Renesse, et. al. Chain Replication for Supporting High Throughput and Availability., OSDI 2004
-[8] Protocol Buffer, http://code.google.com/apis/protocolbuffers/
-[9] Apache Thrift, https://thrift.apache.org/
-[10] asio C++ library, http://think-async.com/
-[11] CUDA-aware MPI, http://devblogs.nvidia.com/parallelforall/introduction-cuda-aware-mpi/
-[12] Remote Direct Memory Access, http://en.wikipedia.org/wiki/Remote_direct_memory_access
-[13] RDMA over Converged Ethernet, http://en.wikipedia.org/wiki/RDMA_over_Converged_Ethernet
-[14] Google Snappy, https://code.google.com/p/snappy/
-[15] METIS, http://glaros.dtc.umn.edu/gkhome/views/metis
-[16] Apache Zookeeper, http://zookeeper.apache.org/
-[17] Trishul Chilimbi, Yutaka Suzue, Johnson Apacible, and Karthik Kalyanaraman, Project Adam: Building an Efficient and Scalable Deep Learning Training System, OSDI 2014
 
+ 1. Alex Krizhevsky, One weird trick for parallelizing convolutional neural networks, arXiv:1404.5997, 2014
+ 2. http://en.wikipedia.org/wiki/Graph_partition
+ 3. Hailong Yang, et. al. MapReduce Workload Modeling with Statistical Approach, J Grid Computing 2012
+ 4. Yanpei Chen, et. al. A Methodology for Understanding MapReducePerformance Under Diverse Workloads, UCB Tech Report, 2010
+ 5. I. Stoica, et. al. Chord: A scalable peer-to-peer lookup service for internet applications. ACM SIGCOMM, 2001
+ 6. Lamport, Leslie (2001). Paxos Made Simple ACM SIGACT News (Distributed Computing Column) 32, 4
+ 7. Robbert van Renesse, et. al. Chain Replication for Supporting High Throughput and Availability., OSDI 2004
+ 8. Protocol Buffer, http://code.google.com/apis/protocolbuffers/
+ 9. Apache Thrift, https://thrift.apache.org/
+ 10. asio C++ library, http://think-async.com/
+ 11. CUDA-aware MPI, http://devblogs.nvidia.com/parallelforall/introduction-cuda-aware-mpi/
+ 12. Remote Direct Memory Access, http://en.wikipedia.org/wiki/Remote_direct_memory_access
+ 13. RDMA over Converged Ethernet, http://en.wikipedia.org/wiki/RDMA_over_Converged_Ethernet
+ 14. Google Snappy, https://code.google.com/p/snappy/
+ 15. METIS, http://glaros.dtc.umn.edu/gkhome/views/metis
+ 16. Apache Zookeeper, http://zookeeper.apache.org/
+ 17. Trishul Chilimbi, Yutaka Suzue, Johnson Apacible, and Karthik Kalyanaraman, Project Adam: Building an Efficient and Scalable Deep Learning Training System, OSDI 2014
